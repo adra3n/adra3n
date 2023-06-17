@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adra3n&show_icons=true&theme=radical)
 -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adra3n&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adra3n&show_icons=true&theme=radical)
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=adra3n&theme=xcode)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adra3n&layout=compact&theme=blue-green)
+![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adra3n&layout=compact&theme=blue-green)
+
